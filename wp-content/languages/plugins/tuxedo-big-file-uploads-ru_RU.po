@@ -1,0 +1,341 @@
+# Translation of Plugins - Big File Uploads &#8211; Increase Maximum File Upload Size - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Big File Uploads &#8211; Increase Maximum File Upload Size - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-19 18:25:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Big File Uploads &#8211; Increase Maximum File Upload Size - Stable (latest release)\n"
+
+#: templates/settings-filetypes.php:15
+msgid "Add-on"
+msgstr "Дополнение"
+
+#: tuxedo_big_file_uploads.php:1172
+msgid "Archives"
+msgstr "Архивы"
+
+#: tuxedo_big_file_uploads.php:1169
+msgid "Audio"
+msgstr "Аудио"
+
+#: tuxedo_big_file_uploads.php:318
+msgid "Change"
+msgstr "Изменить"
+
+#: tuxedo_big_file_uploads.php:1173
+msgid "Code"
+msgstr "Код"
+
+#: templates/footer.php:17
+msgid "Facebook"
+msgstr "Facebook"
+
+#: tuxedo_big_file_uploads.php:1168
+msgid "Images"
+msgstr "Изображения"
+
+#: templates/settings.php:12
+msgid "Maximum Upload Size"
+msgstr "Макс. размер загрузки"
+
+#: tuxedo_big_file_uploads.php:1174
+msgid "Other"
+msgstr "Другое"
+
+#: templates/footer.php:11 templates/modal-subscribe.php:33
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: templates/scan-results.php:24
+msgid "Refresh"
+msgstr "Обновить"
+
+#: tuxedo_big_file_uploads.php:974
+msgid "Settings saved!"
+msgstr "Настройки сохранены!"
+
+#: templates/footer.php:10
+msgid "Terms of Service"
+msgstr "Условия использования"
+
+#: templates/footer.php:16
+msgid "Twitter"
+msgstr "Twitter"
+
+#: tuxedo_big_file_uploads.php:1170
+msgid "Video"
+msgstr "Видео"
+
+#: tuxedo_big_file_uploads.php:1148
+msgid "%s / %s File"
+msgid_plural "%s / %s Files"
+msgstr[0] "%s / %s Файл"
+msgstr[1] "%s / %s Файла"
+msgstr[2] "%s / %s Файлов"
+
+#: tuxedo_big_file_uploads.php:1143
+msgid "%s file totalling %s"
+msgid_plural "%s files totalling %s"
+msgstr[0] "%s файл общим объемом %s"
+msgstr[1] "%s файла общим объемом %s"
+msgstr[2] "%s файлов общим объемом %s"
+
+#: templates/settings.php:58
+msgid "%s upload limit"
+msgstr "%s лимит загрузки"
+
+#: templates/settings.php:24
+msgid "All Users"
+msgstr "Все пользователи"
+
+#: templates/settings-filetypes.php:4 templates/settings.php:6
+#: tuxedo_big_file_uploads.php:794
+msgid "Settings"
+msgstr "Настройки"
+
+#: templates/footer.php:9 tuxedo_big_file_uploads.php:795
+msgid "Support"
+msgstr "Поддержка"
+
+#: templates/settings-filetypes.php:14
+msgid "WordPress Core"
+msgstr "Ядро WordPress"
+
+#: templates/settings-filetypes.php:47 templates/settings.php:80
+msgid "Save"
+msgstr "Сохранить"
+
+#: templates/scan-results.php:42
+msgid "More Info"
+msgstr "Больше информации"
+
+#. Plugin Name of the plugin
+#: tuxedo_big_file_uploads.php:220 tuxedo_big_file_uploads.php:849
+#: tuxedo_big_file_uploads.php:850 tuxedo_big_file_uploads.php:860
+#: tuxedo_big_file_uploads.php:861 tuxedo_big_file_uploads.php:960
+msgid "Big File Uploads"
+msgstr "Big File Uploads"
+
+#: templates/modal-subscribe.php:27 templates/modal-subscribe.php:28
+msgid "Email Address"
+msgstr "Email-адрес"
+
+#: templates/settings.php:30
+msgid "All users upload limit"
+msgstr "Лимит загрузки для всех пользователей"
+
+#: templates/settings-filetypes.php:11
+msgid "Allow or prevent specific file formats from being uploaded by users."
+msgstr "Разрешить или запретить пользователям загружать файлы определенных форматов."
+
+#: templates/scan-start.php:5
+msgid "Analyze Your Storage Usage"
+msgstr "Анализ использования хранилища"
+
+#: tuxedo_big_file_uploads.php:887
+msgid "Are you sure you want to leave this tab? The current bulk action will be canceled and you will need to continue where it left off later."
+msgstr "Вы уверены, что хотите покинуть эту вкладку? Текущее массовое действие будет отменено, и вам нужно будет продолжить его с того места, на котором оно закончилось позже."
+
+#: templates/settings.php:20
+msgid "Customize by user role"
+msgstr "Настроить по роли пользователя"
+
+#: templates/settings.php:40 templates/settings.php:68
+msgid "Default size is defined by your hosting provider"
+msgstr "Размер по умолчанию определяется вашим хостинг-провайдером"
+
+#: tuxedo_big_file_uploads.php:1171
+msgid "Documents"
+msgstr "Документы"
+
+#: templates/modal-upgrade.php:14
+msgid "Effortlessly Offload Your Media Library to the Cloud"
+msgstr "Без усилий разгрузка библиотеки файлов в облако"
+
+#. Description of the plugin
+msgid "Enable large file uploads in the built-in WordPress media uploader via multipart uploads, and set maximum upload file size to any value based on user role. Uploads can be as large as available disk space allows."
+msgstr "Включите загрузку больших файлов во встроенном загрузчике медиафайлов WordPress с помощью многостраничной загрузки и установите для максимального размера загружаемого файла любое значение в зависимости от роли пользователя. Загружаемые файлы могут быть настолько большими, насколько позволяет доступное дисковое пространство."
+
+#: templates/settings.php:14
+msgid "Estimated maximum supported size: %s"
+msgstr "Предполагаемый макс. поддерживаемый размер: %s"
+
+#. Author URI of the plugin
+msgid "https://infiniteuploads.com/?utm_source=bfu_plugin&utm_medium=plugin&utm_campaign=bfu_plugin&utm_content=meta"
+msgstr "https://infiniteuploads.com/?utm_source=bfu_plugin&utm_medium=plugin&utm_campaign=bfu_plugin&utm_content=meta"
+
+#. Author of the plugin
+msgid "Infinite Uploads"
+msgstr "Infinite Uploads"
+
+#: templates/footer.php:4
+msgid "Made with %s by Infinite Uploads"
+msgstr "Сделано с %s с помощью Infinite Uploads"
+
+#: templates/modal-upgrade.php:31
+msgid "Activate Infinite Uploads"
+msgstr "Активация Infinite Uploads"
+
+#: templates/modal-upgrade.php:35
+msgid "Install Infinite Uploads"
+msgstr "Установка Infinite Uploads"
+
+#: templates/scan-results.php:36 templates/settings.php:86
+#: tuxedo_big_file_uploads.php:325
+msgid "Want unlimited storage space?"
+msgstr "Хотите неограниченное пространство для хранения?"
+
+#: templates/settings.php:13
+msgid "Big File Uploads allows you to bypass your hosting file size %s limit by seamlessly uploading in multiple smaller chunks. Set the max filesize you want to allow users to upload in Megabytes (MB) or Gigabytes (GB) up to what your hosting provider can handle. Toggle \"Customize by user role\" to set the maximum file size for each user role with upload capabilities."
+msgstr "Big File Uploads (pагрузки больших файлов) позволяет вам обойти ограничение на размер файла %s на хостинге, беспрепятственно загружая файлы несколькими небольшими фрагментами. Установите максимальный размер файла, который вы хотите разрешить пользователям загружать в мегабайтах (МБ) или гигабайтах (ГБ), в пределах того, что может выдержать ваш хостинг-провайдер. Переключите \"Настроить по ролям пользователей\", чтобы установить максимальный размер файла для каждой роли пользователя с возможностью загрузки."
+
+#: templates/modal-upgrade.php:28
+msgid "Configure Infinite Uploads"
+msgstr "Настроить Infinite Uploads"
+
+#: templates/settings-filetypes.php:10
+msgid "File Type Manager"
+msgstr "Менеджер типов файлов"
+
+#. translators: %4$s is the closing a tag for files
+#: templates/modal-scan.php:30
+msgid "Found %1$s0 MB%2$s / %3$s0%4$s Files..."
+msgstr "Найдено %1$s0 MB%2$s / %3$s0%4$s Файлов..."
+
+#: templates/modal-upgrade.php:39
+msgid "Get 7 days of %s storage FREE. Plans starting at just $9/mo"
+msgstr "Получите 7 дней хранения %s БЕСПЛАТНО. Планы от $9/мес"
+
+#: templates/modal-subscribe.php:10
+msgid "Get Media Management Tips & Tricks"
+msgstr "Получите советы и рекомендации по управлению медиа"
+
+#: tuxedo_big_file_uploads.php:889
+msgid "If you leave this page the sync will be interrupted and you will have to continue where you left off later."
+msgstr "Если вы покинете эту страницу, синхронизация будет прервана, и вам придется продолжить с того места, на котором вы остановились, позже."
+
+#: templates/settings.php:40 templates/settings.php:68
+msgid "Maximum Upload Size (default is %s)"
+msgstr "Макс. размер загрузки (по умолчанию %s)"
+
+#: templates/modal-upgrade.php:17
+msgid "More Information &raquo;"
+msgstr "Дополнительная информация &raquo;"
+
+#: templates/settings.php:86 tuxedo_big_file_uploads.php:325
+msgid "Move your media files to the Infinite Uploads cloud"
+msgstr "Переместите свои медиафайлы в облако Infinite Uploads"
+
+#: templates/scan-results.php:37
+msgid "Move your media files to the Infinite Uploads cloud to save storage space, bandwidth, improve performance, and free you from hosting limits."
+msgstr "Переместите свои медиафайлы в облако Infinite Uploads, чтобы сэкономить место для хранения, полосу пропускания, повысить производительность и освободить вас от ограничений хостинга."
+
+#: templates/modal-subscribe.php:45
+msgid "No thanks, view results without subscribing."
+msgstr "Нет, спасибо, просматривайте результаты без подписки."
+
+#: templates/settings-filetypes.php:42
+msgid "Note: All WordPress supported file types are listed. Not all webhosts are configured to allow these filetypes to be uploaded. Check with your host if you are having an issue uploading a file."
+msgstr "Примечание: перечислены все типы файлов, поддерживаемые WordPress. Не все веб-хосты настроены на загрузку файлов этих типов. Если у вас возникли проблемы с загрузкой файла, обратитесь к своему хосту."
+
+#: templates/modal-subscribe.php:33
+msgid "Optional - no spam, unsubscribe at any time!"
+msgstr "Необязательно - никакого спама, отпишитесь в любое время!"
+
+#: tuxedo_big_file_uploads.php:921 tuxedo_big_file_uploads.php:927
+#: tuxedo_big_file_uploads.php:1082
+msgid "Permissions Error: Please refresh the page and try again."
+msgstr "Ошибка разрешений: Обновите страницу и попробуйте снова."
+
+#: tuxedo_big_file_uploads.php:983
+msgid "Please choose a maximum size for each option."
+msgstr "Выберите макс. размер для каждого варианта."
+
+#: tuxedo_big_file_uploads.php:367
+msgid "Review your upload settings now, configure different limits per role, or analyze your uploads storage usage."
+msgstr "Просмотрите настройки выгрузки сейчас, настройте различные лимиты для каждой роли или проанализируйте использование хранилища выгрузок."
+
+#: templates/scan-start.php:6
+msgid "Run a free scan of your existing Media Library to analyze and visualize storage usage by file type."
+msgstr "Запустите бесплатное сканирование существующей библиотеки файлов, чтобы проанализировать и визуализировать использование хранилища по типам файлов."
+
+#: templates/scan-results.php:24
+msgid "Run a new scan to detect recently uploaded files."
+msgstr "Запустите новое сканирование, чтобы обнаружить недавно загруженные файлы."
+
+#: templates/scan-start.php:11
+msgid "Run Scan"
+msgstr "Запустить сканирование"
+
+#: templates/scan-results.php:22
+msgid "Scanned %s ago"
+msgstr "Сканировано %s назад"
+
+#: templates/modal-scan.php:5
+msgid "Scanning Files"
+msgstr "Сканирование файлов"
+
+#: templates/modal-scan.php:17
+msgid "Scanning Media Library"
+msgstr "Сканирование библиотеки файлов"
+
+#: templates/scan-results.php:4
+msgid "Storage Usage Analysis"
+msgstr "Анализ использования хранилища"
+
+#: templates/modal-subscribe.php:39
+msgid "Subscribe & View Results"
+msgstr "Подписаться и просмотреть результаты"
+
+#: templates/modal-subscribe.php:11
+msgid "Subscribe to receive tips for managing large files in WordPress and making your media library infinitely scalable with cloud storage from Infinite Uploads."
+msgstr "Подпишитесь, чтобы получать советы по управлению большими файлами в WordPress и неограниченному масштабированию вашей библиотеки файлов с помощью облачного хранилища от Infinite Uploads."
+
+#: templates/settings.php:15
+msgid "This is an estimate based on the available space in your server temp directory."
+msgstr "Это приблизительная оценка, основанная на доступном пространстве во временном каталоге вашего сервера."
+
+#: templates/modal-upgrade.php:16
+msgid "Infinite Uploads is a cloud storage and CDN delivery provider for your WordPress media library and other uploads. The Infinite Uploads plugin allows you to easily connect an unlimited number of sites to our cloud for offloading your files, lowering hosting costs, improving site performance, and serving files faster to your visitors."
+msgstr "Infinite Uploads - это облачное хранилище и поставщик услуг доставки CDN для вашей библиотеки файлов WordPress и других загрузок. Плагин Infinite Uploads позволяет вам легко подключать неограниченное количество сайтов к нашему облаку для разгрузки ваших файлов, снижения затрат на хостинг, повышения производительности сайта и более быстрого обслуживания файлов для ваших посетителей."
+
+#: templates/modal-scan.php:18
+msgid "This usually only takes a minute or two but can take longer for very large media libraries with a lot of files. Please leave this tab open while we complete your scan."
+msgstr "Обычно это занимает всего пару минут, но может занять больше времени для очень больших библиотек файлов с большим количеством файлов. Оставьте эту вкладку открытой, пока мы завершаем сканирование."
+
+#: tuxedo_big_file_uploads.php:888
+msgid "Too many server errors. Please try again."
+msgstr "Слишком много ошибок сервера. Попробуйте еще раз."
+
+#: templates/scan-results.php:10
+msgid "Total Bytes / Files"
+msgstr "Всего байтов / файлов"
+
+#: tuxedo_big_file_uploads.php:366
+msgid "Tuxedo Big File Uploads has a new maintainer and <strong>new free features</strong>!"
+msgstr "У Tuxedo Big File Uploads появился новый сопровождающий и <strong>новые бесплатные функции</strong>!"
+
+#: templates/settings.php:14
+msgid "Unknown (set a reasonable default limit and adjust down if uploads fail)"
+msgstr "Неизвестно (установите разумный предел по умолчанию и уменьшите его, если загрузка не удалась)"
+
+#. translators: %s: Name of the file that failed to upload.
+#: tuxedo_big_file_uploads.php:511 tuxedo_big_file_uploads.php:576
+#: tuxedo_big_file_uploads.php:613 tuxedo_big_file_uploads.php:660
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "&#8220;%s&#8221;: не удалось загрузить."
+
+#: tuxedo_big_file_uploads.php:325 tuxedo_big_file_uploads.php:507
+#: tuxedo_big_file_uploads.php:572 tuxedo_big_file_uploads.php:609
+#: tuxedo_big_file_uploads.php:656
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: tuxedo_big_file_uploads.php:496 tuxedo_big_file_uploads.php:514
+msgid "The file size has exceeded the maximum file size setting."
+msgstr "Размер файла превышает установленный макс. размер файла."

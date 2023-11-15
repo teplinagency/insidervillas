@@ -1,0 +1,11 @@
+#experience_places .list {
+	height:400px;
+}
+
+.acf-editor-wrap iframe {
+	max-height:200px;
+}
+
+.edit-tags-php.taxonomy-areas #addtag .acf-field-google-map {
+	display:none;
+}

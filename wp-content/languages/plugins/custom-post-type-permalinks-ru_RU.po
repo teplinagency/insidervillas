@@ -1,0 +1,92 @@
+# Translation of Plugins - Custom Post Type Permalinks - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Custom Post Type Permalinks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-07 09:21:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Custom Post Type Permalinks - Stable (latest release)\n"
+
+#: CPTP/Module/Admin.php:112
+msgid "Available taxonomy tags:"
+msgstr "Доступные метки таксономии:"
+
+#: CPTP/Module/Admin.php:111
+msgid "The tags you can use are WordPress structure tags and taxonomy tags."
+msgstr "Метки, которые вы можете использовать, — это метки структуры WordPress и метки таксономии."
+
+#. translators: %s URL.
+#: CPTP/Module/Admin.php:232
+msgid "[Custom Post Type Permalinks] <a href=\"%s\"><strong>Please check your permalink settings!</strong></a>"
+msgstr "[Custom Post Type Permalinks] <a href=\"%s\"><strong>Пожалуйста, проверьте настройки постоянных ссылок!</strong></a>"
+
+#. translators: %s simple post type permalinks install page.
+#: CPTP/Module/Admin.php:88
+msgid "If you need post type permalink only, you should use <a href=\"%s\">Simple Post Type Permalinks</a>."
+msgstr "Если вам нужна только постоянная ссылка на тип записи, используйте <a href=\"%s\">Simple Post Type Permalinks</a>."
+
+#: CPTP/Module/Admin.php:208
+msgid "You can setting permalink for post type in <a href=\"options-permalink.php\">Permalinks</a>."
+msgstr "Вы можете настроить постоянные ссылки для разных типов записей на странице <a href=\"options-permalink.php\">Постоянные ссылки</a>."
+
+#. Author URI of the plugin
+msgid "https://torounit.com/"
+msgstr "https://torounit.com/"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/torounit/custom-post-type-permalinks"
+msgstr "https://github.com/torounit/custom-post-type-permalinks"
+
+#. Author of the plugin
+msgid "Toro_Unit"
+msgstr "Toro_Unit"
+
+#. Description of the plugin
+msgid "Add post archives of custom post type and customizable permalinks."
+msgstr "Добавьте архивы записи пользовательского типа и настраиваемые постоянные ссылки."
+
+#. Plugin Name of the plugin
+#: CPTP/Module/Admin.php:207
+msgid "Custom Post Type Permalinks"
+msgstr "Custom Post Type Permalinks"
+
+#: CPTP/Util.php:166
+msgid "View all posts in %s"
+msgstr "Посмотреть все записи в %s"
+
+#: CPTP/Module/Admin.php:193
+msgid "There are cases when the template to be loaded is changed."
+msgstr "Бывают случаи, когда изменяется загрузка шаблона."
+
+#: CPTP/Module/Admin.php:192
+msgid "Custom taxonomy archive also works as post type archive. "
+msgstr "Пользовательский архив таксономии также работает как архив типа записи. "
+
+#. translators: %s site url
+#: CPTP/Module/Admin.php:183
+msgid "If you check this, the custom taxonomy's permalinks will be <code>%s/post_type/taxonomy/term</code>."
+msgstr "При выборе произвольная структура URL для таксономии будет <code>%s/post_type/taxonomy/term</code>."
+
+#: CPTP/Module/Admin.php:121
+msgid "If <code>has_archive</code> is true, add permalinks for custom post type archive."
+msgstr "Если <code>has_archive</code> равно true, добавьте постоянные ссылки для архива пользовательского типа записи."
+
+#: CPTP/Module/Admin.php:120
+msgid "Presence of the trailing '/' is unified into a standard permalink structure setting."
+msgstr "Наличие завершающих слэшей ( / ) в стандартной структуре ссылок является обязательным."
+
+#: CPTP/Module/Admin.php:70
+msgid "Add <code>post_type</code> query for custom taxonomy archive."
+msgstr "Добавьте запрос <code>post_type</code> для пользовательского архива таксономии."
+
+#: CPTP/Module/Admin.php:57
+msgid "Use custom permalink of custom taxonomy archive."
+msgstr "Структура постоянных ссылок для архива таксономии."
+
+#: CPTP/Module/Admin.php:33
+msgid "Permalink Settings for Custom Post Types"
+msgstr "Настройки структуры ссылок для записей произвольного типа"
